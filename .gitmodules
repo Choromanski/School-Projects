@@ -1,0 +1,33 @@
+[submodule "CS0447/project1"]
+	path = CS0447/project1
+	url = git@github.com:Choromanski/Pac-Man.git
+[submodule "CS0447/project2"]
+	path = CS0447/project2
+	url = git@github.com:Choromanski/jrMIPS.git
+[submodule "CS0447/labs"]
+	path = CS0447/labs
+	url = git@github.com:Choromanski/CS447-Labs.git
+[submodule "CS0449/project1-part1"]
+	path = CS0449/project1-part1
+	url = git@github.com:Choromanski/rps.git
+[submodule "CS0449/project1-part2"]
+	path = CS0449/project1-part2
+	url = git@github.com:Choromanski/bmpEdit.git
+[submodule "CS0449/project2-part1"]
+	path = CS0449/project2-part1
+	url = git@github.com:Choromanski/strings.git
+[submodule "CS0449/project2-part2"]
+	path = CS0449/project2-part2
+	url = git@github.com:Choromanski/password-crack.git
+[submodule "CS0449/project3"]
+	path = CS0449/project3
+	url = git@github.com:Choromanski/bestfit-malloc.git
+[submodule "CS0449/project4"]
+	path = CS0449/project4
+	url = git@github.com:Choromanski/rps-device-driver.git
+[submodule "CS0449/project5"]
+	path = CS0449/project5
+	url = git@github.com:Choromanski/shell.git
+[submodule "CS0449/labs"]
+	path = CS0449/labs
+	url = git@github.com:Choromanski/CS449-Labs.git
