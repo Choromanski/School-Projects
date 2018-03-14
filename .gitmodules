@@ -31,3 +31,18 @@
 [submodule "CS0449/labs"]
 	path = CS0449/labs
 	url = git@github.com:Choromanski/CS449-Labs.git
+[submodule "CS1501/project1"]
+	path = CS1501/project1
+	url = git@github.com:Choromanski/autocomplete.git
+[submodule "CS1501/project2"]
+	path = CS1501/project2
+	url = git@github.com:Choromanski/LZW-Compression.git
+[submodule "CS1501/project3"]
+	path = CS1501/project3
+	url = git@github.com:Choromanski/apartment-tracker.git
+[submodule "CS1501/project4"]
+	path = CS1501/project4
+	url = git@github.com:Choromanski/network-analysis.git
+[submodule "CS1501/project5"]
+	path = CS1501/project5
+	url = git@github.com:Choromanski/RSA-Sign.git
